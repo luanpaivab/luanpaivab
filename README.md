@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com Front-end (Vue.Js)
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; flex-direction: row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanpaivab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpaivab&layout=compact&langs_count=16&theme=dracula"/>
 </div>
